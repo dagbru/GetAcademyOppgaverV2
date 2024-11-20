@@ -1,6 +1,6 @@
-﻿
-using GetAcademyOppgaverV2;
+﻿using GetAcademyOppgaverV2;
 using GetAcademyOppgaverV2.Assignments;
+
 
 IAssignment assignmentToRun;
 assignmentToRun = new Assignment315A();
